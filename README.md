@@ -1,2 +1,37 @@
-# Dark-Note
-Meu bloco de Notas Monografico feito com python
+readme_content = """# 🌙 DarkNote
+
+> Um bloco de notas minimalista e elegante com tema escuro para Linux, desenvolvido em Python.
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Flatpak-orange.svg)
+![Python](https://img.shields.io/badge/python-3.11%2B-yellow.svg)
+
+---
+
+## 📌 Sobre o Projeto
+
+O **DarkNote** (`com.gabriel.DarkNote`) é uma aplicação de anotações focada em simplicidade, desempenho e conforto visual. Projetado para funcionar nativamente em ambientes Linux, ele oferece um tema escuro moderno e suporte a empacotamento **Flatpak**.
+
+---
+
+## 🚀 Funcionalidades
+
+- 📝 **Interface Minimalista:** Foco total na escrita sem distrações.
+- 🌙 **Tema Dark Nativo:** Design agradável para longas sessões de uso.
+- ⚙️ **Perfis de Configuração:** Suporte a personalização salva localmente via JSON.
+- 📦 **Suporte a Flatpak:** Empacotamento pronto para distribuição em qualquer distro Linux.
+- ⚡ **Script de Execução Rápida:** Atalho simples para rodar localmente sem complicações.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Linguagem:** [Python 3](https://www.python.org/)
+- **Processamento de Imagem:** [Pillow](https://python-pillow.org/)
+- **Empacotamento:** [Flatpak](https://www.flatpak.org/) & `flatpak-builder`
+- **Ambiente Recomendado:** Linux (Fedora, Arch, Ubuntu, Debian, etc.)
+
+---
+
+## 📂 Estrutura do Repositório
