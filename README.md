@@ -4,7 +4,6 @@ readme_content = """# 🌙 DarkNote
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Flatpak-orange.svg)
 ![Python](https://img.shields.io/badge/python-3.11%2B-yellow.svg)
 
 ---
