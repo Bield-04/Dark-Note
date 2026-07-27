@@ -1,0 +1,14 @@
+{
+    "meu tema": {
+        "fonte_nome": "Nimbus Mono PS",
+        "fonte_tamanho": 14,
+        "cor_texto": "#ffffff",
+        "wallpaper_caminho": "/home/gabriel/Imagens/jesus.jpg"
+    },
+    "Dark green": {
+        "fonte_nome": "RIT Meera New",
+        "fonte_tamanho": 24,
+        "cor_texto": "#1e9a1e",
+        "wallpaper_caminho": "/home/gabriel/Imagens/asd.jpg"
+    }
+}
