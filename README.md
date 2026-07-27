@@ -20,7 +20,6 @@ O **DarkNote** (`com.gabriel.DarkNote`) é uma aplicação de anotações focada
 - 📝 **Interface Minimalista:** Foco total na escrita sem distrações.
 - 🌙 **Tema Dark Nativo:** Design agradável para longas sessões de uso.
 - ⚙️ **Perfis de Configuração:** Suporte a personalização salva localmente via JSON.
-- 📦 **Suporte a Flatpak:** Empacotamento pronto para distribuição em qualquer distro Linux.
 - ⚡ **Script de Execução Rápida:** Atalho simples para rodar localmente sem complicações.
 
 ---
@@ -29,9 +28,7 @@ O **DarkNote** (`com.gabriel.DarkNote`) é uma aplicação de anotações focada
 
 - **Linguagem:** [Python 3](https://www.python.org/)
 - **Processamento de Imagem:** [Pillow](https://python-pillow.org/)
-- **Empacotamento:** [Flatpak](https://www.flatpak.org/) & `flatpak-builder`
 - **Ambiente Recomendado:** Linux (Fedora, Arch, Ubuntu, Debian, etc.)
 
 ---
 
-## 📂 Estrutura do Repositório
